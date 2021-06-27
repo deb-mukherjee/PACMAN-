@@ -658,7 +658,7 @@ function draw() {
             levels = l1;
             removeElements();
             frameCount = 0;
-            setup();
+          
             gameState = play;
             removeElements();
         })
